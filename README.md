@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Password masking with React and @material-ui
+A pet project for practiciing password masking with the help of @material-ui for material look and feel.
+![](pw-masking.gif) 
+
+
+This project was also bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
